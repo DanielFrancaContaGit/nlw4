@@ -1,5 +1,19 @@
 # Rocketpay
 
+<div whidth="200px">
+<img src="https://lh3.google.com/u/1/d/1WMz8xgOmhNh_jPWGwMgwuMexJRc__mXr=w1919-h952-iv1">
+</div>
+
+
+## Content covered
+
+ - Elixir basics
+ - Phoenix basics
+ - tests on phoenix
+ - Route authorization
+
+## How to run the project
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
